@@ -2,7 +2,8 @@
 #Mac install private/etc/hosts or use host manager ex.SwitchHosts!
 #Windows use host manager ex.hostman
 #iOS use host manager ex.adguard pro
-#You are free to use this file for any uses, commercial or non-commercial, with or without attribution
+#You are free to use this file for any uses, commercial or non-commercial, WITHOUT altering the file
+#If you alter this file you need a link back to this page
 #Will be updated if youtube changes its ad servers or adds new ad servers
 
 0.0.0.0 ads.doubleclick.net
